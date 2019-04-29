@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 
 another text file on local
 
+=======
+new file 
+>>>>>>> b178b94882a4d94141fbf4ef2bf67b6fb661f065
